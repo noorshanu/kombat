@@ -58,7 +58,7 @@
             id: "playnow",
             children: [
               (0, N.jsx)("div", {
-                className: window.innerWidth > 1200 ? "ag-spark" : "",
+                className: window.innerWidth > 1200 ? "g" : "",
               }),
               !i && (0, N.jsx)("img", { src: c(), alt: "banner" }),
               (0, N.jsx)("img", {
@@ -840,10 +840,10 @@
         },
         Gs = [
           {
-            token: "DRAW",
-            maxSupply: "1,500,000,000",
+            token: "BKB",
+            maxSupply: "1,000,000,000",
             usecase: [
-              "Play to earn and Events reward.",
+              "Play to earn.",
               "Purchase Items, Chest on Dragon War Official Shop.",
               "Trading NFTs on the Marketplace.",
               "Dragon Modification's Fee.",
@@ -851,9 +851,9 @@
             ],
             contact: [
               {
-                name: "SPL (Solana)",
-                token: "48AEwauAHsJibyt3WqjQ6EoHnFBcnyHASfo7vB2eCXPS",
-                link: "https://solscan.io/token/48AEwauAHsJibyt3WqjQ6EoHnFBcnyHASfo7vB2eCXPS",
+                name: "BKB",
+                token: "soon",
+                link: "#",
               },
             ],
           },

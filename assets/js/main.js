@@ -3524,7 +3524,7 @@
                                                                   },
                                                                   href: "#",
                                                                   rel: "nofollow noopener noreferrer",
-                                                                  children: "Copyright© 2021 Dragon War."
+                                                                  children: "Copyright© 2022 Blockombat."
                                                               })
                                                           })
                                                       })
