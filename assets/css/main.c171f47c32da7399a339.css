@@ -32247,7 +32247,7 @@ section.dg-nfts .nft-wrapper .swiper-pagination {
   min-height: 200px;
 }
 section.dg-characters {
-  background-image: url(https://dragonwar.io/assets/images/character_bg.png);
+  background-image: url(https://ik.imagekit.io/l4k8brcjb/kombat/background_thunder.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1666468973782);
   background-size: cover;
   padding-top: 5%;
   padding-bottom: 5%;
@@ -32281,13 +32281,13 @@ section.dg-characters p {
   font-family: Univers LT Std;
   font-style: normal;
   font-size: small;
-  color: #000;
+  color: #fff;
 }
 section.dg-characters .hide-md p {
   font-family: Univers LT Std;
   font-style: normal;
   font-size: small;
-  color: #000;
+  color: #fff;
   margin-right: -100px;
 }
 section.dg-characters .race-list-container {

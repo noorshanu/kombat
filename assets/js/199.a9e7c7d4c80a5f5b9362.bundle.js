@@ -844,10 +844,14 @@
             maxSupply: "1,000,000,000",
             usecase: [
               "Play to earn.",
-              "Purchase Items, Chest on Dragon War Official Shop.",
-              "Trading NFTs on the Marketplace.",
-              "Dragon Modification's Fee.",
-              "Land Management (TBU).",
+              "Arena Store",
+              "Character Store",
+              "Skills Store",
+              "Weapons Store",
+              "NFT Store",
+              "Solo mode",
+              "Duel mode",
+              "Tournament mode ,Trading NFTs on the Marketplace.",
             ],
             contact: [
               {
