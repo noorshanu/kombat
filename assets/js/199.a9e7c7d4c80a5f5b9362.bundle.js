@@ -1364,7 +1364,7 @@
       s.exports = n.p + "assets/images/open-link.png";
     },
     1850: (s, e, n) => {
-      s.exports =  "assets/images/banner.WEBP";
+      s.exports =  "assets/images/banner.gif";
     },
     496: (s, e, n) => {
       s.exports = "assets/images/comingsoon.png";
