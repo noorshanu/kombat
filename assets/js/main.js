@@ -3952,19 +3952,19 @@
       }
       ,
       7762: (e,a,s)=>{
-          e.exports = s.p + "assets/images/arrow_left.png"
+          e.exports =  "assets/images/arrow_left.png"
       }
       ,
       518: (e,a,s)=>{
-          e.exports = s.p + "assets/images/arrow_right.png"
+          e.exports =  "assets/images/arrow_right.png"
       }
       ,
       1860: (e,a,s)=>{
-          e.exports = s.p + "assets/images/arrow_white.png"
+          e.exports =  "assets/images/arrow_white.png"
       }
       ,
       7519: (e,a,s)=>{
-          e.exports = s.p + "assets/images/banner_preload.jpg"
+          e.exports = "assets/images/banner_preload.png"
       }
       ,
       7700: (e,a,s)=>{
