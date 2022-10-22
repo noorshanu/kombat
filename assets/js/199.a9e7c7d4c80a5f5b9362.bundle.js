@@ -649,16 +649,7 @@
         Ss = n(7211),
         Ms = n.n(Ss),
         Ts = [
-          {
-            image: Ns(),
-            title: "EXCLUSIVE EPIC CHEST",
-            des: "This Exclusive Epic Dragon collection is minting exclusively only on Magic Eden. This is the first time Epic Dragons & Body Parts are introduced to the community through this Collection.",
-          },
-          {
-            image: Ms(),
-            title: "GENESIS CHEST",
-            des: "Great treasure of 5 mighty dragons, which has at least 1 Rare Dragon. The rarity is from Common to Rare and the elements are random.",
-          },
+       
           {
             image: fs(),
             title: "Heroes",
