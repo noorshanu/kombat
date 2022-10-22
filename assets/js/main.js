@@ -4188,7 +4188,7 @@
       }
       ,
       8143: (e,a,s)=>{
-          e.exports = s.p + "assets/images/logo-footer.png"
+          e.exports =  "assets/images/logo-dark.png"
       }
       ,
       7636: (e,a,s)=>{
