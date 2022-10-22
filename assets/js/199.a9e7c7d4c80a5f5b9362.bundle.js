@@ -862,8 +862,8 @@
             ],
           },
           {
-            token: "ERA",
-            maxSupply: "Unlimited",
+            token: "200,000,000",
+            maxSupply: "120,000,000",
             usecase: [
               "Play to earn and Events reward.",
               "Dragon Modification's Fee.",
@@ -1064,7 +1064,7 @@
                                       alt: "arrow",
                                     }),
                                   }),
-                                  "TOKEN",
+                                  "Seed",
                                 ],
                               }),
                               (0, N.jsxs)("h3", {
@@ -1079,7 +1079,7 @@
                                       alt: "arrow",
                                     }),
                                   }),
-                                  "MAX SUPPLY",
+                                  "Private",
                                 ],
                               }),
                               (0, N.jsxs)("h5", {
