@@ -3996,15 +3996,15 @@
       }
       ,
       526: (e,a,s)=>{
-          e.exports = s.p + "assets/images/chr_dark_elf.gif"
+          e.exports = "assets/images/chr_dark_elf.gif"
       }
       ,
       4327: (e,a,s)=>{
-          e.exports = s.p + "assets/images/chr_elf.gif"
+          e.exports =  "assets/images/chr_elf.gif"
       }
       ,
       4346: (e,a,s)=>{
-          e.exports = s.p + "assets/images/chr_ore.gif"
+          e.exports = "assets/images/chr_ore.gif"
       }
       ,
       8747: (e,a,s)=>{
@@ -4012,7 +4012,7 @@
       }
       ,
       536: (e,a,s)=>{
-          e.exports = s.p + "assets/images/human.gif"
+          e.exports ="assets/images/human.gif"
       }
       ,
       1008: (e,a,s)=>{
