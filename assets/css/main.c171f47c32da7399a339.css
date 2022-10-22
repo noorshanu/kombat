@@ -31876,7 +31876,7 @@ section.dg-tokenInfo .token-container .dg-elements-holder-item h5 {
 section.dg-tokenInfo .token-container .thunder-dragon img {
   max-width: 200%;
   position: absolute;
-  left: 0;
+  left: -46%;
   top: 50%;
   transform: translate(0%, -50%);
 }
@@ -32187,7 +32187,7 @@ section.dg-features .feature-item-wrapper img {
 section.dg-nfts {
   padding-top: 50px;
   background-size: cover;
-  background-image: url(https://dragonwar.io/assets/images/nft_bg.png);
+  background-image: url(../images/nft_bg.png);
   background-position: bottom;
   position: absolute;
     top: 10%;

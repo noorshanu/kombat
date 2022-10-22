@@ -72,8 +72,8 @@
               }),
               (0, N.jsx)("img", {
                 className: "dg-banner-comming-soon",
-                src: m(),
-                alt: "banner",
+                src: '../images/comingsoon.png',
+                alt: "",
               }),
               (0, N.jsx)("div", {
                 className: "dragonwar-info-container ".concat(
@@ -1364,28 +1364,28 @@
       s.exports = n.p + "assets/images/open-link.png";
     },
     1850: (s, e, n) => {
-      s.exports = n.p + "assets/images/banner.jpg";
+      s.exports =  "assets/images/banner.WEBP";
     },
     496: (s, e, n) => {
-      s.exports = n.p + "assets/images/comingsoon.png";
+      s.exports = "assets/images/comingsoon.png";
     },
     8282: (s, e, n) => {
       s.exports = n.p + "assets/images/diamond.png";
     },
     1152: (s, e, n) => {
-      s.exports = n.p + "assets/images/1.png";
+      s.exports =  "assets/images/1.png";
     },
     1210: (s, e, n) => {
-      s.exports = n.p + "assets/images/2.png";
+      s.exports = "assets/images/2.png";
     },
     3270: (s, e, n) => {
-      s.exports = n.p + "assets/images/3.png";
+      s.exports = "assets/images/3.png";
     },
     9750: (s, e, n) => {
-      s.exports = n.p + "assets/images/4.png";
+      s.exports =  "assets/images/4.png";
     },
     1025: (s, e, n) => {
-      s.exports = n.p + "assets/images/5.png";
+      s.exports =  "assets/images/5.png";
     },
     6897: (s, e, n) => {
       s.exports = n.p + "assets/images/benzinga.png";
@@ -1409,16 +1409,16 @@
       s.exports = n.p + "assets/images/yahoonews.png";
     },
     7466: (s, e, n) => {
-      s.exports = n.p + "assets/images/nft1.png";
+      s.exports =  "assets/images/nft1.png";
     },
     9595: (s, e, n) => {
-      s.exports = n.p + "assets/images/nft2.png";
+      s.exports ="assets/images/nft2.png";
     },
     1356: (s, e, n) => {
-      s.exports = n.p + "assets/images/nft3.png";
+      s.exports =  "assets/images/nft3.png";
     },
     6730: (s, e, n) => {
-      s.exports = n.p + "assets/images/nft4.png";
+      s.exports =  "assets/images/nft4.png";
     },
     9517: (s, e, n) => {
       s.exports = n.p + "assets/images/nft6.png";
@@ -1448,7 +1448,7 @@
       s.exports = n.p + "assets/images/spliter_small.png";
     },
     9638: (s, e, n) => {
-      s.exports = n.p + "assets/images/thunder.png";
+      s.exports = "assets/images/thunder.png";
     },
     4361: (s, e, n) => {
       s.exports = n.p + "assets/images/thumb1.png";
