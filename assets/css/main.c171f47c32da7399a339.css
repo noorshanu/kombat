@@ -31876,7 +31876,7 @@ section.dg-tokenInfo .token-container .dg-elements-holder-item h5 {
 section.dg-tokenInfo .token-container .thunder-dragon img {
   max-width: 200%;
   position: absolute;
-  left: -46%;
+  right: -44%;
   top: 50%;
   transform: translate(0%, -50%);
 }
