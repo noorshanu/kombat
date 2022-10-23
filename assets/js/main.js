@@ -2455,7 +2455,7 @@
           },  {
               icon: Ja(),
               title: "redkite",
-              url: "#",
+              url: "https://www.coinex.org/",
               description: ""
           },  {
               icon: Hs(),
@@ -2465,22 +2465,22 @@
           }, {
               icon: As(),
               title: "au21",
-              url: "#",
+              url: "https://caduceus.foundation/",
               description: ""
           }, {
               icon: Ks(),
               title: "daomaker",
-              url: "#",
+              url: "https://www.cherryswap.net/",
               description: ""
           },   {
               icon: bs(),
               title: "maven_m",
-              url: "#",
+              url: "https://www.okx.com/okc",
               description: ""
           }, {
               icon: Gs(),
               title: "goodgame",
-              url: "#",
+              url: "https://miniutopia.co/",
               description: ""
           }, {
               icon: us(),
@@ -3162,7 +3162,7 @@
                                                   h.jsx)("a", {
                                                       className: "pt-2",
                                                       target: "_blank",
-                                                      href: "#",
+                                                      href: "https://blockombat.gitbook.io/whitepaper/",
                                                       children: (0,
                                                       h.jsx)("p", {
                                                           children: " ▪ White Paper"
@@ -3171,7 +3171,7 @@
                                                   h.jsx)("a", {
                                                       className: "pt-2",
                                                       target: "_blank",
-                                                      href: "#",
+                                                      href: "https://blockombat.com/Tokenomics.pdf",
                                                       children: (0,
                                                       h.jsx)("p", {
                                                           children: " ▪ Token Metrics"
@@ -3180,7 +3180,7 @@
                                                   h.jsx)("a", {
                                                       className: "pt-2",
                                                       target: "_blank",
-                                                      href: "https://drive.google.com/file/d/10uqFWfScMXvA35lLP0I2CGODTLfV-ijA/view",
+                                                      href: "https://blockombat.com/blockombat_pitchdeck.pdf",
                                                       children: (0,
                                                       h.jsx)("p", {
                                                           children: " ▪ Pitch Deck"
@@ -3190,29 +3190,12 @@
                                               h.jsxs)("div", {
                                                   className: "col-6",
                                                   children: [(0,
+                                                  h.jsx)("a", {}), (0,
                                                   h.jsx)("a", {
-                                                      target: "_blank",
-                                                      href: "https://raydium.io/swap/?inputCurrency=sol&outputCurrency=48AEwauAHsJibyt3WqjQ6EoHnFBcnyHASfo7vB2eCXPS",
-                                                      children: (0,
-                                                      h.jsx)("p", {
-                                                          children: " ▪ Official Token"
-                                                      })
+                                                    
                                                   }), (0,
                                                   h.jsx)("a", {
-                                                      target: "_blank",
-                                                      href: "#",
-                                                      children: (0,
-                                                      h.jsx)("p", {
-                                                          children: " ▪ Help Center"
-                                                      })
-                                                  }), (0,
-                                                  h.jsx)("a", {
-                                                      target: "_blank",
-                                                      href: "#",
-                                                      children: (0,
-                                                      h.jsx)("p", {
-                                                          children: " ▪ Wallet"
-                                                      })
+                                                    
                                                   })]
                                               })]
                                           }), (0,
