@@ -2114,23 +2114,23 @@
           }
             , Na = [{
               Time: "2022-1",
-              displayTime: "Q2 2021",
-              title: "Alliance Of Eragard",
-              description: '\n        <p><b style="color:#ADFF2F">&#x2714;</b> Ideation \n  \n <p><b style="color:#ADFF2F">&#x2714;</b>Project team compiling</p>\n <p><b style="color:#ADFF2F">&#x2714;</b> Project infrastructure </p>\n     <h4 class=""> Q3 - 2021</a></h4>\n      <p><b style="color:#ADFF2F">&#x2714;</b> MVP development </p>\n        '
+              displayTime: "Q2-2021",
+              title: "Stage 1",
+              description: '\n        <p><b style="color:#ADFF2F">&#x2714;</b> Ideation \n  \n <p><b style="color:#ADFF2F">&#x2714;</b>Project team compiling</p>\n <p><b style="color:#ADFF2F">&#x2714;</b> Project infrastructure </p>\n                  '
           }, {
               Time: "2022-4",
-              title: "Strike Back",
-              displayTime: "Q1-2022",
-              description: '\n     <p>Andriod development build</p>\n   <p> IOS build </p>\n   \n    <h4>Q2-Q3-2022</h4>\n       <p>Partners</p>\n            <p>Promotions</p>\n  \n        '
+              title: "Stage 2",
+              displayTime: "Q3-Q4-2021",
+              description: '\n <p><b style="color:#ADFF2F">&#x2714;</b> MVP development </p>\n  <h4>Q1-2022</h4>   <p>Andriod development build</p>\n   <p> IOS build </p>\n   \n    <h4>Q2-Q3-2022</h4>\n       <p>Partners</p>\n            <p>Promotions</p>\n  \n        '
           }, {
               Time: "2022-10",
-              displayTime: "Q4 - 2022",
-              title: "Civil Wars",
+              displayTime: "Q4-2022",
+              title: "Stage 3",
               description: "\n            <p>Private and seed round initialization</p>\n            <p>Development team expansion.</p>\n            <p>Marketing and mainstream media engagement.</p>\n            <p >Social media Influencer partnerships.</p>\n            <p >&nbsp; &nbsp;Dex listing and token distribution.&nbsp;</p>\n            <p >&nbsp; &nbsp;Lp and Single Staking.&nbsp;</p>\n            <p >NFTs minting for Tournaments. </p>\n            <p>Android and iOS store uploads.</p>\n            <p>▪ CEX listing</p>  \n <p>▪ First global tournament</p>  \n    <p>▪ Mainstream media partnership. </p>   \n      <p><br></p>"
           }, {
               Time: "2023-1",
-              title: "The Eraverse",
-              displayTime: "Q1 - 2023 and beyond",
+              title: "Stage 4",
+              displayTime: "Q1-2023 and beyond",
               description: "\n            <p>▪ WebGL development </p>\n            <p>▪ Development of Staking platform.</p>\n            <p>More Innovations as time goes:</p>\n  \n          <p>▪ Development of a Dex (Multi-chain Swap). </p>\n         <p>▪ Development of IDO platform. </p>\n       <p>▪ Development of INO platform. </p>\n       <p>▪ Development of BKB blockchain. </p>\n     "
           }]
             , wa = [{
@@ -2452,40 +2452,12 @@
               title: "solana",
               url: "https://solana.com/vi",
               description: ""
-          }, {
-              icon: Ya(),
-              title: "icetea labs",
-              url: "#",
-              description: "",
-              containerStyle: {
-                  position: "relative"
-              },
-              imgStyle: {
-                  position: "absolute",
-                  top: "50%",
-                  left: "50%",
-                  transform: "translate(-50%,-50%)"
-              }
-          }, {
+          },  {
               icon: Ja(),
               title: "redkite",
               url: "#",
               description: ""
-          }, {
-              icon: es(),
-              title: "gamefi",
-              url: "#",
-              description: "",
-              containerStyle: {
-                  position: "relative"
-              },
-              imgStyle: {
-                  position: "absolute",
-                  top: "50%",
-                  left: "50%",
-                  transform: "translate(-50%,-50%)"
-              }
-          }, {
+          },  {
               icon: Hs(),
               title: "solanium",
               url: "#",
@@ -2500,31 +2472,7 @@
               title: "daomaker",
               url: "#",
               description: ""
-          }, {
-              icon: ss(),
-              title: "sugagroup",
-              url: "https:thesugagroup.com/",
-              description: ""
-          }, {
-              icon: Ps(),
-              title: "starpunk",
-              url: "#",
-              description: ""
-          }, {
-              icon: rs(),
-              title: "hub",
-              url: "#",
-              description: "",
-              containerStyle: {
-                  position: "relative"
-              },
-              imgStyle: {
-                  position: "absolute",
-                  top: "50%",
-                  left: "50%",
-                  transform: "translate(-50%,-50%)"
-              }
-          }, {
+          },   {
               icon: bs(),
               title: "maven_m",
               url: "#",
@@ -2532,11 +2480,6 @@
           }, {
               icon: Gs(),
               title: "goodgame",
-              url: "#",
-              description: ""
-          }, {
-              icon: zs(),
-              title: "mgg",
               url: "#",
               description: ""
           }, {
@@ -2553,12 +2496,7 @@
                   left: "50%",
                   transform: "translate(-50%,-50%)"
               }
-          },{
-            icon: ri(),
-            title: "mgg",
-            url: "#",
-            description: ""
-        }  ];
+          } ];
           function pi(e, a) {
               var s = Object.keys(e);
               if (Object.getOwnPropertySymbols) {
@@ -3291,19 +3229,7 @@
                                                   className: "col-2",
                                                   children: (0,
                                                   h.jsx)("a", {
-                                                      href: "https://discord.com/invite/kFUmzU6nCH",
-                                                      target: "_blank",
-                                                      children: (0,
-                                                      h.jsx)("i", {
-                                                          className: "fab fa-discord fa-2x"
-                                                      })
-                                                  })
-                                              }), (0,
-                                              h.jsx)("div", {
-                                                  className: "col-2",
-                                                  children: (0,
-                                                  h.jsx)("a", {
-                                                      href: "https://t.me/dragonwarglobal",
+                                                      href: "https://t.me/blockombatANN",
                                                       target: "_blank",
                                                       children: (0,
                                                       h.jsx)("i", {
@@ -3315,7 +3241,19 @@
                                                   className: "col-2",
                                                   children: (0,
                                                   h.jsx)("a", {
-                                                      href: "https://www.facebook.com/gaming/dragonwar.io",
+                                                      href: "https://t.me/blockombat",
+                                                      target: "_blank",
+                                                      children: (0,
+                                                      h.jsx)("i", {
+                                                          className: "fab fa-telegram-plane fa-2x"
+                                                      })
+                                                  })
+                                              }), (0,
+                                              h.jsx)("div", {
+                                                  className: "col-2",
+                                                  children: (0,
+                                                  h.jsx)("a", {
+                                                      href: "https://coinmarketcap.com/community/profile/Blockombat",
                                                       target: "_blank",
                                                       children: (0,
                                                       h.jsx)("i", {
@@ -3327,7 +3265,7 @@
                                                   className: "col-2",
                                                   children: (0,
                                                   h.jsx)("a", {
-                                                      href: "https://twitter.com/io_dragonwar",
+                                                      href: "https://twitter.com/blockombat",
                                                       target: "_blank",
                                                       children: (0,
                                                       h.jsx)("i", {
@@ -3339,7 +3277,7 @@
                                                   className: "col-2",
                                                   children: (0,
                                                   h.jsx)("a", {
-                                                      href: "https://www.youtube.com/c/DragonWar102",
+                                                      href: "https://www.youtube.com/channel/UC1X7I5u6u8bpQCVr7w2H7xw",
                                                       target: "_blank",
                                                       children: (0,
                                                       h.jsx)("i", {
@@ -3351,7 +3289,7 @@
                                                   className: "col-2",
                                                   children: (0,
                                                   h.jsx)("a", {
-                                                      href: "https://medium.com/@dragonwar",
+                                                      href: "https://medium.com/@blockombat",
                                                       target: "_blank",
                                                       children: (0,
                                                       h.jsx)("i", {

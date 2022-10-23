@@ -32368,6 +32368,7 @@ section.dg-teams {
   background-size: cover;
   background-position: center;
   padding-top: 50px;
+  display: none;
 }
 section.dg-teams.dg-advisors {
   background-image: url(https://dragonwar.io/assets/images/advisors_bg.png);
@@ -33350,6 +33351,7 @@ button.swiper-pagination-bullet {
 .MuiGrid-spacing-xs-2 {
   width: calc(100% + 16px);
   margin: -8px;
+  justify-content: center;
 }
 .MuiGrid-spacing-xs-2 > .MuiGrid-item {
   padding: 8px;
