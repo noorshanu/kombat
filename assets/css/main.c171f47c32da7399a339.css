@@ -33353,6 +33353,10 @@ button.swiper-pagination-bullet {
 }
 .MuiGrid-spacing-xs-2 > .MuiGrid-item {
   padding: 8px;
+  border: 1px solid;
+    border-radius: 15px;
+    border-color: #a4751c;
+    margin: 1%;
 }
 .MuiGrid-spacing-xs-3 {
   width: calc(100% + 24px);
