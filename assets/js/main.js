@@ -2553,7 +2553,12 @@
                   left: "50%",
                   transform: "translate(-50%,-50%)"
               }
-          } ];
+          },{
+            icon: ri(),
+            title: "mgg",
+            url: "#",
+            description: ""
+        }  ];
           function pi(e, a) {
               var s = Object.keys(e);
               if (Object.getOwnPropertySymbols) {
