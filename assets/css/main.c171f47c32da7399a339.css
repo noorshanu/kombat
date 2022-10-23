@@ -31875,10 +31875,10 @@ section.dg-tokenInfo .token-container .dg-elements-holder-item h5 {
   font-size: 16px;
 }
 section.dg-tokenInfo .token-container .thunder-dragon img {
-  max-width: 200%;
+  max-width: 83%;
   position: absolute;
-  right: -44%;
-  top: 50%;
+  right: -4%;
+  top: 57%;
   transform: translate(0%, -50%);
 }
 section.dg-tokenInfo .token-container .border-left-50:after {

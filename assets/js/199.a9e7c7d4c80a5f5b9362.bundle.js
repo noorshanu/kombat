@@ -28,17 +28,17 @@
             {
               name: "Play on Web",
               image: j(),
-              url: "https://play.dragonwar.io",
+              url: "#",
             },
             {
               name: "Play on Android",
               image: u(),
-              url: "https://nft.dragonwar.io/Mobile/DragonWar.apk",
+              url: "#",
             },
             {
               name: "Play on IOS",
               image: x(),
-              url: "https://testflight.apple.com/join/ItMj0tyE",
+              url: "#",
             },
           ]),
         v = n(9249),
@@ -110,7 +110,7 @@
                             children: (0, N.jsx)("img", {
                               className: "platform-icon",
                               src: s.image,
-                              alt: "platform of dragonwar",
+                              alt: "platform of Blockombat",
                             }),
                           }),
                           (0, N.jsx)("p", { children: s.name }),
@@ -1443,7 +1443,7 @@
       s.exports = n.p + "assets/images/spliter_small.png";
     },
     9638: (s, e, n) => {
-      s.exports = "assets/images/thunder.png";
+      s.exports = "https://ik.imagekit.io/l4k8brcjb/kombat/char_12-1.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666528165423";
     },
     4361: (s, e, n) => {
       s.exports = n.p + "assets/images/thumb1.png";
