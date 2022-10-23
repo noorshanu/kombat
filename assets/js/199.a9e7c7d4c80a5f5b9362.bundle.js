@@ -392,14 +392,14 @@
           data: [
             {
               title: "Solana Metaverse Project Dragon War Reveals IDO Plans",
-              url: "https://www.newsbtc.com/news/company/solana-metaverse-project-dragon-war-reveals-ido-plans/",
+              url: "#",
               description:
                 "Dragon War, a turn-based strategy game built on the Solana blockchain, has revealed details about its highly-anticipated public sale. Between March 20 and...",
             },
             {
               title:
                 "Dragon War is Bringing the Most Exclusive NFT Collections to Magic Eden",
-              url: "https://www.newsbtc.com/news/company/dragon-war-is-bringing-the-most-exclusive-nft-collections-to-magic-eden/",
+              url: "#",
               description:
                 "NFT strategy game Dragon War has confirmed a partnership with Magic Eden, Solana’s fast-growing NFT marketplace. As part of the deal, the play-to-earn",
             },
@@ -410,7 +410,7 @@
           data: [
             {
               title: "Solana Strategy Game Dragon War Mobilises For March IDO",
-              url: "https://www.yahoo.com/news/solana-strategy-game-dragon-war-045500535.html",
+              url: "#",
               description:
                 "Solana Strategy Game Dragon War Mobilises For March IDO",
             },
@@ -421,7 +421,7 @@
           data: [
             {
               title: "Solana Strategy Game Dragon War Mobilises For March IDO",
-              url: "https://www.marketwatch.com/press-release/solana-strategy-game-dragon-war-mobilises-for-march-ido-2022-03-18",
+              url: "#",
               description:
                 "Solana Strategy Game Dragon War Mobilises For March IDO",
             },
@@ -432,7 +432,7 @@
           data: [
             {
               title: "Solana Strategy Game Dragon War Mobilises For March IDO",
-              url: "https://www.benzinga.com/pressreleases/22/03/g26195922/solana-strategy-game-dragon-war-mobilises-for-march-ido",
+              url: "#",
               description:
                 "Solana Strategy Game Dragon War Mobilises For March IDO",
             },
@@ -443,7 +443,7 @@
           data: [
             {
               title: "Solana Strategy Game Dragon War Mobilises For March IDO",
-              url: "https://thenewyorkage.com/solana-strategy-game-dragon-war-mobilises-for-march-ido/",
+              url: "#",
               description:
                 "Solana Strategy Game Dragon War Mobilises For March IDO",
             },
@@ -455,14 +455,14 @@
             {
               title:
                 "Dragon War: A Turn-Based Fantasy Metaverse Building on NFTs",
-              url: "https://bitcoinist.com/dragon-war-a-turn-based-fantasy-metaverse-building-on-nfts/",
+              url: "#",
               description:
                 "Dragon War: A Turn-Based Fantasy Metaverse Building on NFTs",
             },
             {
               title:
                 "Dragon War is Bringing the Most Exclusive NFT Collections to Magic Eden | Bitcoinist.com",
-              url: "https://bitcoinist.com/dragon-war-is-bringing-the-most-exclusive-nft-collections-to-magic-eden/",
+              url: "#",
               description:
                 "NFT strategy game Dragon War has confirmed a partnership with Magic Eden, Solana’s fast-growing NFT marketplace. As part of the deal, the play-to-earn project",
             },
@@ -474,7 +474,7 @@
             {
               title:
                 "Over 100 Venture Capitals, KOLs, and Gaming Guilds Busy Bug Hunting in Dragon War",
-              url: "https://www.coinspeaker.com/vcs-kols-gaming-guilds-dragon-war/",
+              url: "#",
               description:
                 "Dragon War is notable for its vast NFT collection, with literally tens of thousands of unique assets available. ",
             },
