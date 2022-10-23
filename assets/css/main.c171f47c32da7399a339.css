@@ -28558,6 +28558,7 @@ body.dg-dropdown-slide-from-left.dg-drop-down
 @media (min-width: 968px) {
   .dg-banner .dragonwar-info-container {
     bottom: 30%;
+    display: none;
   }
   .dg-banner .platform-item p {
     display: block !important;
