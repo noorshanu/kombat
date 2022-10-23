@@ -31866,6 +31866,9 @@ section.dg-tokenInfo .token-container .dg-elements-holder-item h5,
 section.dg-tokenInfo .token-container .dg-elements-holder-item h6 {
   color: #a37316;
 }
+.cmc{
+  height: 47px;
+}
 section.dg-tokenInfo .token-container .dg-elements-holder-item p,
 section.dg-tokenInfo .token-container .dg-elements-holder-item li,
 section.dg-tokenInfo .token-container .dg-elements-holder-item h3,

@@ -3256,8 +3256,9 @@
                                                       href: "https://coinmarketcap.com/community/profile/Blockombat",
                                                       target: "_blank",
                                                       children: (0,
-                                                      h.jsx)("i", {
-                                                          className: "fab fa-facebook-square fa-2x"
+                                                      h.jsx)("img", {
+                                                          className: "cmc fa-2x",
+                                                          src:"https://ik.imagekit.io/l4k8brcjb/kombat/coinmarketcap-icon.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666528465806"
                                                       })
                                                   })
                                               }), (0,
