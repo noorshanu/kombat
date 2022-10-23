@@ -30843,11 +30843,23 @@ section.dg-describe {
   padding-bottom: 0.7%;
  
 }
-.foot-icon{
-  height: 50px;
+.pc{
+  height: 25px;
+}
+.ps4{
+  height: 20px;
+}
+.ps5{
+  height: 20px;
+}
+.xbox{
+  height: 20px;
+}
+.xbox1{
+  height: 20px;
 }
 .icon-foot{
-  gap: 4rem;
+  gap: 5rem;
 }
 .noor{
   display: none;
