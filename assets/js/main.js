@@ -2114,24 +2114,24 @@
           }
             , Na = [{
               Time: "2022-1",
-              displayTime: "Q1 2022",
+              displayTime: "Q2 2021",
               title: "Alliance Of Eragard",
-              description: '\n        <p><b style="color:#ADFF2F">&#x2714;</b> Core System: \n            <span><a class="road-map-link" target="_blank" href="https://doc.dragonwar.io/gameplay/heroes">Hero</a></span>,\n            <span><a class="road-map-link" target="_blank" href="https://doc.dragonwar.io/gameplay/dragons">Dragon</a></span>,\n            <span><a class="road-map-link" target="_blank" href="https://doc.dragonwar.io/gameplay/dragons/body-parts">Body Parts</a></span>,\n            <span><a class="road-map-link" target="_blank" href="https://doc.dragonwar.io/gameplay/dragons/dragons-skill">Skill</a></span>,\n            <span><a class="road-map-link" target="_blank" href="https://doc.dragonwar.io/gameplay/game-mode/campaign-story-mode">Campaign Map</a></span></p>\n            <p><a class="road-map-link" target="_blank" href="https://doc.dragonwar.io/gameplay/game-mode/campaign-story-mode"><b style="color:#ADFF2F">&#x2714;</b> Game mode: PvE (Passive Turn-based)</a></p>\n            <p><a class="road-map-link" target="_blank" href="https://doc.dragonwar.io/event/open-test"><b style="color:#ADFF2F">&#x2714;</b> Testnet Launch</a></p>\n            <p><a class="road-map-link" target="_blank" href="https://doc.dragonwar.io/economy/tokenomic"><b style="color:#ADFF2F">&#x2714;</b> IDO</a></p>\n            <p><a class="road-map-link" target="_blank" href="https://doc.dragonwar.io/official-channel/website-and-marketplace"><b style="color:#ADFF2F">&#x2714;</b> Marketplace</a></p>\n        '
+              description: '\n        <p><b style="color:#ADFF2F">&#x2714;</b> Ideation \n  \n <p><b style="color:#ADFF2F">&#x2714;</b>Project team compiling</p>\n <p><b style="color:#ADFF2F">&#x2714;</b> Project infrastructure </p>\n     <h4 class=""> Q3 - 2021</a></h4>\n      <p><b style="color:#ADFF2F">&#x2714;</b> MVP development </p>\n        '
           }, {
               Time: "2022-4",
               title: "Strike Back",
-              displayTime: "Q2 2022",
-              description: '\n            <p><b style="color:#ADFF2F">&#x2714;</b> <a class="road-map-link" target="_blank" href="https://doc.dragonwar.io/gameplay/nfts">Initial NFT Offering</a></p>\n            <p><b style="color:#ADFF2F">&#x2714;</b> <a class="road-map-link" target="_blank" href="https://doc.dragonwar.io/event/open-test">Mainnet Launch</a></p>\n            <p><b style="color:#ADFF2F">&#x2714;</b> <a class="road-map-link" target="_blank" href="https://doc.dragonwar.io/economy/tokenomic">2nd in-game Token: ERA</a></p>\n            <p><b style="color:#ADFF2F">&#x2714;</b> <a class="road-map-link" target="_blank" href="https://doc.dragonwar.io/gameplay/game-mode/building-resources-farming-system">Buiding, Resources, Farming system </a></p>\n            <p><b style="color:#ADFF2F">&#x2714;</b> <a class="road-map-link" target="_blank" href="https://doc.dragonwar.io/gameplay/dragons">Dragon & Body parts: Upgrade, Fusion, Combine, Release, Dismantle </a></p>\n            <p><b style="color:#ADFF2F">&#x2714;</b> <a class="road-map-link" target="_blank" href="https://doc.dragonwar.io/gameplay/game-mode/arena-pvp-coming-soon-in-q2">Game mode: PvP (Passive Turn-based) </a></p>\n            <p><b style="color:#ADFF2F">&#x2714;</b> More contents: \n            <span><a class="road-map-link" target="_blank" href="https://doc.dragonwar.io/gameplay/game-mode/campaign-story-mode/world-map">Map Chapters</a></span>, \n            <span><a class="road-map-link" target="_blank" href="https://doc.dragonwar.io/gameplay/dragons">Dragons</a></span>, \n            <span><a class="road-map-link" target="_blank" href="https://doc.dragonwar.io/gameplay/dragons/dragons-skill">Skills</a></span>, \n            <span><a class="road-map-link" target="_blank" href="https://doc.dragonwar.io/gameplay/dragons/dragons-rarity">Rarity level</a></span>...</p>\n        '
+              displayTime: "Q1-2022",
+              description: '\n     <p>Andriod development build</p>\n   <p> IOS build </p>\n   \n    <h4>Q2-Q3-2022</h4>\n       <p>Partners</p>\n            <p>Promotions</p>\n  \n        '
           }, {
-              Time: "2022-7",
-              displayTime: "Q3 2022",
+              Time: "2022-10",
+              displayTime: "Q4 - 2022",
               title: "Civil Wars",
-              description: "\n            <p>Game mode: PvP (Active Turn-based)</p>\n            <p>PvP Tournament&nbsp;</p>\n            <p>PvE additional modes & features:</p>\n            <p >&nbsp; &nbsp;- Treasure Hunting&nbsp;</p>\n            <p >&nbsp; &nbsp;- Dragon Hunting&nbsp;</p>\n            <p >&nbsp; &nbsp;- Boss Raid&nbsp;</p>\n            <p >- Hero's Equipment System</p>\n            <p>▪ Mobile version</p>\n            <p>▪ Staking</p>            \n            <p><br></p>"
+              description: "\n            <p>Private and seed round initialization</p>\n            <p>Development team expansion.</p>\n            <p>Marketing and mainstream media engagement.</p>\n            <p >Social media Influencer partnerships.</p>\n            <p >&nbsp; &nbsp;Dex listing and token distribution.&nbsp;</p>\n            <p >&nbsp; &nbsp;Lp and Single Staking.&nbsp;</p>\n            <p >NFTs minting for Tournaments. </p>\n            <p>Android and iOS store uploads.</p>\n            <p>▪ CEX listing</p>  \n <p>▪ First global tournament</p>  \n    <p>▪ Mainstream media partnership. </p>   \n      <p><br></p>"
           }, {
-              Time: "2022-11",
+              Time: "2023-1",
               title: "The Eraverse",
-              displayTime: "Q4 2022 and beyond",
-              description: "\n            <p>▪ Eragard Metaverse - The Eraverse</p>\n            <p>▪ Land & Kingdom</p>\n            <p>▪ Game mode: Massive Online Battlefield (Multiplayer PvP) </p>\n            <p>▪ World map: Guild Wars</p>\n        "
+              displayTime: "Q1 - 2023 and beyond",
+              description: "\n            <p>▪ WebGL development </p>\n            <p>▪ Development of Staking platform.</p>\n            <p>More Innovations as time goes:</p>\n  \n          <p>▪ Development of a Dex (Multi-chain Swap). </p>\n         <p>▪ Development of IDO platform. </p>\n       <p>▪ Development of INO platform. </p>\n       <p>▪ Development of BKB blockchain. </p>\n     "
           }]
             , wa = [{
               time: "2022-03-30",
