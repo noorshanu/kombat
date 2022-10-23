@@ -1443,7 +1443,7 @@
       s.exports = n.p + "assets/images/spliter_small.png";
     },
     9638: (s, e, n) => {
-      s.exports = "https://ik.imagekit.io/l4k8brcjb/kombat/char_12-1.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666528165423";
+      s.exports = "https://ik.imagekit.io/l4k8brcjb/kombat/Image.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666532212974";
     },
     4361: (s, e, n) => {
       s.exports = n.p + "assets/images/thumb1.png";
