@@ -886,7 +886,7 @@
             className: "dg-tokenInfo text-align-center dg-preload-background",
             style: {
               backgroundImage:
-                "url(../assets/images/dragons/background_thunder.png)",
+                "url(https://ik.imagekit.io/l4k8brcjb/kombat/background_thunder.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666517240885)",
             },
             id: "tokenInfo",
             children: [
