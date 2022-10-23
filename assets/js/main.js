@@ -2290,10 +2290,10 @@
             , Ha = s(4224)
             , Wa = s.n(Ha)
             , Ka = {
-              title: "The best Turn based Strategy Game on The Fastest Blockchain",
-              describe1: "Dragon War has exquisitely digital collectibles created using Blockchain Technology. Each collectible is matchless, genuine and varies in rarity. ",
-              describe2: "<p>The Dragon War Universe has a lot of different races like Human, Orc, Angel, Demon, Dragonborn, Elf and Fairy which are waiting for the user to discover and collect.</p> <br/> <p>Last but not least, Dragon War is also a multiplayer RPG NFT GAME that lets the user engage in the combat arena and profit from battles.</p>",
-              video: '     <div className="screenshot-container">\n                                <iframe style="max-width: 100%" width="700" height="410" src="https://www.youtube.com/embed/R0w8V5S52d4" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\n                            </div>',
+              title: "",
+              describe1: " ",
+              describe2: "",
+              video: '     \n                                ',
               screenshots: [{
                   type: 0,
                   data: Ba()
