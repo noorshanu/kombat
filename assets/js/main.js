@@ -2361,12 +2361,8 @@
                               children: (0,
                               h.jsx)("div", {
                                   className: "screenshot-frame",
-                                  style: {
-                                      backgroundImage: "url('".concat(Oa(), "')")
-                                  },
-                                  dangerouslySetInnerHTML: {
-                                      __html: Ka.video
-                                  }
+                                 
+                                 
                               })
                           })
                       })]
@@ -3128,7 +3124,8 @@
                           className: "divine-bar",
                           src: ot(),
                           alt: "divine"
-                      }), (0,
+                      }),
+                       (0,
                       h.jsxs)("div", {
                           className: "dg-footer-top-holder",
                           children: [(0,
@@ -3144,9 +3141,54 @@
                                       h.jsx)("img", {
                                           className: "dg-light-logo footer-center-img",
                                           src: ct(),
-                                          alt: "light logo"
-                                      })
-                                  }), (0,
+                                          alt: "light logo",
+                                         
+                                      }),
+                                    
+                                  }),
+                                  (0,
+                                    h.jsx)  ("div", {
+                                        className: "d-flex justify-content-center icon-foot",
+                                        children: [(0,
+                                            h.jsx)("img", {
+                                                className: "pt-2 foot-icon",
+                                                src:'https://ik.imagekit.io/l4k8brcjb/kombat/icon/xbox-series-x.7f45b405.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1666553494097'
+                                                
+                                               
+                                            }), (0,
+                                            h.jsx)("img", {
+                                                className: "pt-2 foot-icon",
+                                                src:'https://ik.imagekit.io/l4k8brcjb/kombat/icon/ps5_tm.be18ce49.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1666553494171',
+                                                alt:''
+
+                                                
+                                            }), (0,
+                                            h.jsx)("img", {
+                                                className: "pt-2 foot-icon",
+                                            src:'https://ik.imagekit.io/l4k8brcjb/kombat/icon/pc-digital-download-logo.71166f18.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1666553494171',
+
+                                              
+                                            })
+                                            , (0,
+                                                h.jsx)("img", {
+                                                    className: "pt-2 foot-icon",
+                                                src:'https://ik.imagekit.io/l4k8brcjb/kombat/icon/ps4_tm.e1716b09.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1666553494100',
+    
+                                                  
+                                                })
+                                                , (0,
+                                                    h.jsx)("img", {
+                                                        className: "pt-2 foot-icon",
+                                                    src:'https://ik.imagekit.io/l4k8brcjb/kombat/icon/xbox-one.bf152ff2.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1666553494066',
+        
+                                                      
+                                                    })
+                                                    
+                                        
+                                        
+                                        
+                                        ]
+                                    }),(0,
                                   h.jsx)("div", {
                                       className: "container-lg p-5",
                                       children: (0,

@@ -30843,6 +30843,12 @@ section.dg-describe {
   padding-bottom: 0.7%;
  
 }
+.foot-icon{
+  height: 50px;
+}
+.icon-foot{
+  gap: 4rem;
+}
 section.dg-describe h2 {
   position: relative;
   background: linear-gradient(
