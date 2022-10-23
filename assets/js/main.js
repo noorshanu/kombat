@@ -2455,7 +2455,7 @@
           }, {
               icon: Ya(),
               title: "icetea labs",
-              url: "https://icetea.io/",
+              url: "#",
               description: "",
               containerStyle: {
                   position: "relative"
@@ -2469,12 +2469,12 @@
           }, {
               icon: Ja(),
               title: "redkite",
-              url: "https://redkite.polkafoundry.com",
+              url: "#",
               description: ""
           }, {
               icon: es(),
               title: "gamefi",
-              url: "https://gamefi.org/",
+              url: "#",
               description: "",
               containerStyle: {
                   position: "relative"
@@ -2488,17 +2488,17 @@
           }, {
               icon: Hs(),
               title: "solanium",
-              url: "https://www.solanium.io/",
+              url: "#",
               description: ""
           }, {
               icon: As(),
               title: "au21",
-              url: "https://au21.capital/",
+              url: "#",
               description: ""
           }, {
               icon: Ks(),
               title: "daomaker",
-              url: "https://daomaker.com/",
+              url: "#",
               description: ""
           }, {
               icon: ss(),
@@ -2508,12 +2508,12 @@
           }, {
               icon: Ps(),
               title: "starpunk",
-              url: "https://starpunk.io/",
+              url: "#",
               description: ""
           }, {
               icon: rs(),
               title: "hub",
-              url: "https://www.hubglobal.io/",
+              url: "#",
               description: "",
               containerStyle: {
                   position: "relative"
@@ -2527,22 +2527,22 @@
           }, {
               icon: bs(),
               title: "maven_m",
-              url: "https://mavencapital.io/",
+              url: "#",
               description: ""
           }, {
               icon: Gs(),
               title: "goodgame",
-              url: "https://goodgamesguild.com/",
+              url: "#",
               description: ""
           }, {
               icon: zs(),
               title: "mgg",
-              url: "https://www.metagg.com/",
+              url: "#",
               description: ""
           }, {
               icon: us(),
               title: "hgventures",
-              url: "https://www.hgventures.io/",
+              url: "#",
               description: "",
               containerStyle: {
                   position: "relative"
@@ -2553,139 +2553,7 @@
                   left: "50%",
                   transform: "translate(-50%,-50%)"
               }
-          }, {
-              icon: ds(),
-              title: "bitcoinaddictthailand",
-              url: "https://bitcoinaddict.org/",
-              description: ""
-          }, {
-              icon: xs(),
-              title: "irv_research",
-              url: "http://idoresearch.ventures/",
-              description: "",
-              containerStyle: {
-                  position: "relative"
-              },
-              imgStyle: {
-                  position: "absolute",
-                  top: "50%",
-                  left: "50%",
-                  transform: "translate(-50%,-50%)"
-              }
-          }, {
-              icon: _s(),
-              title: "vendettacapital",
-              url: "https://www.vendetta.capital/",
-              description: "",
-              containerStyle: {
-                  position: "relative"
-              },
-              imgStyle: {
-                  position: "absolute",
-                  top: "50%",
-                  left: "50%",
-                  transform: "translate(-50%,-50%)"
-              }
-          }, {
-              icon: Ms(),
-              title: "hyper_growth",
-              url: "https://t.me/HyperGrowthAirdropBot",
-              description: ""
-          }, {
-              icon: ps(),
-              title: "brandless",
-              url: "https://brandlessph.org/#/",
-              description: ""
-          }, {
-              icon: Ss(),
-              title: "crypto_time",
-              url: "",
-              description: ""
-          }, {
-              icon: ls(),
-              title: "avstar",
-              url: "https://avstarcapital.co/",
-              description: ""
-          }, {
-              icon: js(),
-              title: "one_max_captial",
-              url: "https://twitter.com/capitalonemax",
-              description: ""
-          }, {
-              icon: Ns(),
-              title: "luaventures",
-              url: "https://www.luaventures.xyz/",
-              description: ""
-          }, {
-              icon: Ds(),
-              title: "raptor",
-              url: "https://www.raptorcapital.io/",
-              description: "",
-              containerStyle: {
-                  position: "relative"
-              },
-              imgStyle: {
-                  position: "absolute",
-                  top: "50%",
-                  left: "50%",
-                  transform: "translate(-50%,-50%)"
-              }
-          }, {
-              icon: Cs(),
-              title: "athena",
-              url: "https://vcathena.com/",
-              description: ""
-          }, {
-              icon: qs(),
-              title: "azer_capital",
-              url: "https://www.azer.capital",
-              description: ""
-          }, {
-              icon: Zs(),
-              title: "spores",
-              url: "https://spores.app/",
-              description: ""
-          }, {
-              icon: Ys(),
-              title: "mexc",
-              url: "https://www.mexc.com/",
-              description: ""
-          }, {
-              icon: Js(),
-              title: "magiceden",
-              url: "https://magiceden.io/",
-              description: ""
-          }, {
-              icon: ei(),
-              title: "moonly",
-              url: "https://moon.ly/?queryMode=all&filter=verified",
-              description: ""
-          }, {
-              icon: si(),
-              title: "x8g",
-              url: "",
-              description: ""
-          }, {
-              icon: ti(),
-              title: "sol_sea",
-              url: "https://solsea.io/",
-              description: ""
-          }, {
-              icon: ri(),
-              title: "sol_sniper",
-              url: "https://www.solsniper.xyz/",
-              description: ""
-          }, {
-              icon: li(),
-              title: "senguild",
-              url: "https://senguild.gg/",
-              description: ""
-          }, {
-              icon: di(),
-              title: "carv",
-              url: "",
-              description: ""
-          }];
+          } ];
           function pi(e, a) {
               var s = Object.keys(e);
               if (Object.getOwnPropertySymbols) {
@@ -4204,7 +4072,7 @@
       }
       ,
       5147: (e,a,s)=>{
-          e.exports = s.p + "assets/images/au21.png"
+          e.exports =  "assets/images/au21.png"
       }
       ,
       5345: (e,a,s)=>{
@@ -4232,39 +4100,39 @@
       }
       ,
       7171: (e,a,s)=>{
-          e.exports = s.p + "assets/images/daomaker.png"
+          e.exports =  "assets/images/daomaker.png"
       }
       ,
       341: (e,a,s)=>{
-          e.exports = s.p + "assets/images/gamefi.png"
+          e.exports =  "assets/images/gamefi.png"
       }
       ,
       9119: (e,a,s)=>{
-          e.exports = s.p + "assets/images/goodgame.png"
+          e.exports =  "assets/images/goodgame.png"
       }
       ,
       7413: (e,a,s)=>{
-          e.exports = s.p + "assets/images/hgventures.png"
+          e.exports =  "assets/images/hgventures.png"
       }
       ,
       7561: (e,a,s)=>{
-          e.exports = s.p + "assets/images/hub.png"
+          e.exports = "assets/images/hub.png"
       }
       ,
       3746: (e,a,s)=>{
-          e.exports = s.p + "assets/images/hyper_growth.png"
+          e.exports = "assets/images/hyper_growth.png"
       }
       ,
       5365: (e,a,s)=>{
-          e.exports = s.p + "assets/images/icetealabs.png"
+          e.exports = "assets/images/icetealabs.png"
       }
       ,
       2925: (e,a,s)=>{
-          e.exports = s.p + "assets/images/irv_research.png"
+          e.exports =  "assets/images/irv_research.png"
       }
       ,
       8796: (e,a,s)=>{
-          e.exports = s.p + "assets/images/luaventures.png"
+          e.exports = "assets/images/luaventures.png"
       }
       ,
       1789: (e,a,s)=>{
@@ -4272,7 +4140,7 @@
       }
       ,
       9836: (e,a,s)=>{
-          e.exports = s.p + "assets/images/maven_m.png"
+          e.exports = "assets/images/maven_m.png"
       }
       ,
       798: (e,a,s)=>{
@@ -4280,7 +4148,7 @@
       }
       ,
       8407: (e,a,s)=>{
-          e.exports = s.p + "assets/images/mgg.png"
+          e.exports =  "assets/images/mgg.png"
       }
       ,
       3993: (e,a,s)=>{
@@ -4296,7 +4164,7 @@
       }
       ,
       6389: (e,a,s)=>{
-          e.exports = s.p + "assets/images/redkite.png"
+          e.exports = "assets/images/redkite.png"
       }
       ,
       9205: (e,a,s)=>{
@@ -4312,11 +4180,11 @@
       }
       ,
       6227: (e,a,s)=>{
-          e.exports = s.p + "assets/images/solana.png"
+          e.exports =  "assets/images/solana.png"
       }
       ,
       2490: (e,a,s)=>{
-          e.exports = s.p + "assets/images/solanium.png"
+          e.exports = "assets/images/solanium.png"
       }
       ,
       471: (e,a,s)=>{
@@ -4324,15 +4192,15 @@
       }
       ,
       2948: (e,a,s)=>{
-          e.exports = s.p + "assets/images/starpunk.png"
+          e.exports = "assets/images/starpunk.png"
       }
       ,
       9348: (e,a,s)=>{
-          e.exports = s.p + "assets/images/sugagroup.png"
+          e.exports = "assets/images/sugagroup.png"
       }
       ,
       7676: (e,a,s)=>{
-          e.exports = s.p + "assets/images/vendettacapital.png"
+          e.exports = "assets/images/vendettacapital.png"
       }
       ,
       1938: (e,a,s)=>{
@@ -4392,7 +4260,7 @@
       }
       ,
       7879: (e,a,s)=>{
-          e.exports = s.p + "assets/images/Alvin_NG.png"
+          e.exports = "assets/images/Alvin_NG.png"
       }
       ,
       2987: (e,a,s)=>{
@@ -4412,7 +4280,7 @@
       }
       ,
       8021: (e,a,s)=>{
-          e.exports = s.p + "assets/images/Huy_Nguyen.png"
+          e.exports = "assets/images/Huy_Nguyen.png"
       }
       ,
       1861: (e,a,s)=>{
