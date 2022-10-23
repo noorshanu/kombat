@@ -3258,7 +3258,7 @@
                                                       children: (0,
                                                       h.jsx)("img", {
                                                           className: "cmc fa-2x",
-                                                          src:"https://ik.imagekit.io/l4k8brcjb/kombat/coinmarketcap-icon.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666528465806"
+                                                          src:"https://ik.imagekit.io/l4k8brcjb/kombat/CoinMarketCap-Logo-300x300.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666530112003"
                                                       })
                                                   })
                                               }), (0,
