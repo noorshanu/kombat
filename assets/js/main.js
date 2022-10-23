@@ -502,7 +502,7 @@
                                               className: "menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-128 current_page_item ",
                                               children: (0,
                                               h.jsx)("a", {
-                                                  href: "https://doc.dragonwar.io/",
+                                                  href: "#",
                                                   className: "",
                                                   children: (0,
                                                   h.jsx)("span", {
@@ -514,7 +514,7 @@
                                               className: "menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-128 current_page_item ",
                                               children: (0,
                                               h.jsx)("a", {
-                                                  href: "https://doc.dragonwar.io/economy/tokenomic",
+                                                  href: "#",
                                                   className: "",
                                                   children: (0,
                                                   h.jsx)("span", {
@@ -526,7 +526,7 @@
                                               className: "menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-128 current_page_item ",
                                               children: (0,
                                               h.jsx)("a", {
-                                                  href: "https://doc.dragonwar.io/dragon-wars-lore",
+                                                  href: "#",
                                                   className: "",
                                                   children: (0,
                                                   h.jsx)("span", {
@@ -564,7 +564,7 @@
                                       className: "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow",
                                       children: (0,
                                       h.jsx)("a", {
-                                          href: "https://blog.dragonwar.io/",
+                                          href: "#",
                                           className: "",
                                           onClick: e,
                                           children: (0,
@@ -588,7 +588,7 @@
                                       children: (0,
                                       h.jsx)("a", {
                                           target: "_blank",
-                                          href: "https://marketplace.dragonwar.io/",
+                                          href: "#",
                                           className: "",
                                           onClick: e,
                                           children: (0,
@@ -777,7 +777,7 @@
                                           children: (0,
                                           h.jsx)("a", {
                                               target: "_blank",
-                                              href: "https://doc.dragonwar.io/",
+                                              href: "#",
                                               className: "",
                                               children: (0,
                                               h.jsx)("span", {
@@ -798,7 +798,7 @@
                                           className: "menu-item menu-item-type-post_type menu-item-object-page ",
                                           children: (0,
                                           h.jsx)("a", {
-                                              href: "https://doc.dragonwar.io/economy/tokenomic",
+                                              href: "#",
                                               className: "",
                                               children: (0,
                                               h.jsx)("span", {
@@ -820,7 +820,7 @@
                                           children: (0,
                                           h.jsx)("a", {
                                               target: "_blank",
-                                              href: "https://doc.dragonwar.io/dragon-wars-lore",
+                                              href: "#",
                                               className: "",
                                               children: (0,
                                               h.jsx)("span", {
@@ -864,7 +864,7 @@
                                           children: (0,
                                           h.jsx)("a", {
                                               target: "_blank",
-                                              href: "https://doc.dragonwar.io/getting-started/enter-the-mainnet",
+                                              href: "#",
                                               className: "",
                                               children: (0,
                                               h.jsx)("span", {
@@ -913,7 +913,7 @@
                           className: "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has_sub narrow",
                           children: (0,
                           h.jsx)("a", {
-                              href: "https://blog.dragonwar.io/",
+                              href: "#",
                               className: "",
                               children: (0,
                               h.jsx)("span", {
@@ -937,7 +937,7 @@
                           children: (0,
                           h.jsx)("a", {
                               target: "_blank",
-                              href: "https://marketplace.dragonwar.io/",
+                              href: "#",
                               className: "",
                               children: (0,
                               h.jsx)("span", {
@@ -3097,7 +3097,7 @@
                       },
                       children: [(0,
                       h.jsx)("a", {
-                          href: "https://doc.dragonwar.io/economy/token/how-to-buy-usddraw-token",
+                          href: "#",
                           target: "_blank",
                           children: (0,
                           h.jsx)("img", {
@@ -3111,7 +3111,7 @@
                           children: (new Date).getTime() > 1656141789536 ? "" : (0,
                           h.jsx)("a", {
                               className: "button-kreep",
-                              href: "https://genesischest.dragonwar.io/",
+                              href: "#",
                               target: "_blank",
                               children: (0,
                               h.jsx)("img", {
@@ -3162,7 +3162,7 @@
                                                   h.jsx)("a", {
                                                       className: "pt-2",
                                                       target: "_blank",
-                                                      href: "https://doc.dragonwar.io/",
+                                                      href: "#",
                                                       children: (0,
                                                       h.jsx)("p", {
                                                           children: " ▪ White Paper"
@@ -3171,7 +3171,7 @@
                                                   h.jsx)("a", {
                                                       className: "pt-2",
                                                       target: "_blank",
-                                                      href: "https://doc.dragonwar.io/economy/tokenomic",
+                                                      href: "#",
                                                       children: (0,
                                                       h.jsx)("p", {
                                                           children: " ▪ Token Metrics"
@@ -3200,7 +3200,7 @@
                                                   }), (0,
                                                   h.jsx)("a", {
                                                       target: "_blank",
-                                                      href: "https://support.dragonwar.io/hc/en-us",
+                                                      href: "#",
                                                       children: (0,
                                                       h.jsx)("p", {
                                                           children: " ▪ Help Center"
@@ -3356,7 +3356,7 @@
                                                               fontSize: "17px",
                                                               margin: "0 0 0 0px"
                                                           },
-                                                          href: "https://www.facebook.com/dragonwar.io/",
+                                                          href: "#",
                                                           target: "_blank",
                                                           children: (0,
                                                           h.jsx)("span", {
