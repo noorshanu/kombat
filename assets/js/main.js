@@ -3820,7 +3820,7 @@
       }
       ,
       8747: (e,a,s)=>{
-          e.exports = s.p + "assets/images/elf_avatar.png"
+          e.exports = "https://ik.imagekit.io/l4k8brcjb/kombat/Hero_3.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666540791140"
       }
       ,
       536: (e,a,s)=>{
@@ -3828,15 +3828,15 @@
       }
       ,
       1008: (e,a,s)=>{
-          e.exports = s.p + "assets/images/human_avatar.png"
+          e.exports ="https://ik.imagekit.io/l4k8brcjb/kombat/Hero_1.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666540791011"
       }
       ,
       4661: (e,a,s)=>{
-          e.exports = s.p + "assets/images/ore_avatar.png"
+          e.exports = "https://ik.imagekit.io/l4k8brcjb/kombat/Hero_4.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666540791035"
       }
       ,
       1777: (e,a,s)=>{
-          e.exports = s.p + "assets/images/wizard_avatar1.png"
+          e.exports = "https://ik.imagekit.io/l4k8brcjb/kombat/Hero_2.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666540791232"
       }
       ,
       1526: (e,a,s)=>{
