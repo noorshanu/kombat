@@ -30849,6 +30849,12 @@ section.dg-describe {
 .icon-foot{
   gap: 4rem;
 }
+.noor{
+  display: none;
+}
+#myVideo{
+  width: 100%;
+}
 section.dg-describe h2 {
   position: relative;
   background: linear-gradient(

@@ -60,15 +60,20 @@
               (0, N.jsx)("div", {
                 className: window.innerWidth > 1200 ? "g" : "",
               }),
-              !i && (0, N.jsx)("img", { src: c(), alt: "banner" }),
-              (0, N.jsx)("img", {
-                className: "dg-banner-main",
-                src: o(),
-                alt: "banner",
-                style: { display: i ? "block" : "none" },
-                onLoad: function () {
-                  r(!0);
-                }.bind(undefined),
+              !i && (0, N.jsx)("img", { src: c(), alt: "banner" ,className:'noor' }),
+              (0, N.jsx)("video", {
+              autoPlay:'autoplay',
+              loop:'loop',
+              id:"myVideo",
+                
+               
+                children:(0, N.jsx)
+                ('source',{
+                  className:'',
+                    src:'assets/images/rank/bg.mp4',
+                    type:'video/mp4',
+                  }
+                )
               }),
               (0, N.jsx)("img", {
                 className: "dg-banner-comming-soon",
