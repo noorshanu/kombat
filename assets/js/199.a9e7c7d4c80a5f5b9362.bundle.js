@@ -63,9 +63,10 @@
               !i && (0, N.jsx)("img", { src: c(), alt: "banner" ,className:'noor' }),
               (0, N.jsx)("video", {
               autoPlay:'autoplay',
+              playsInline:'playsinline',
               loop:'loop',
               id:"myVideo",
-                
+           
                
                 children:(0, N.jsx)
                 ('source',{

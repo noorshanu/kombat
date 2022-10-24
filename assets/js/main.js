@@ -842,7 +842,7 @@
                                           children: (0,
                                           h.jsx)("a", {
                                               target: "_blank",
-                                              href: "../assets/document/dw_pitchdeck.pdf",
+                                              href: "#",
                                               className: " ",
                                               children: (0,
                                               h.jsx)("span", {
