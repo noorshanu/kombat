@@ -1035,7 +1035,7 @@
                               }),
                               (0, N.jsx)("h4", {
                                 children: (0, N.jsx)("a", {
-                                  href: "https://raydium.io/swap/?inputCurrency=sol&outputCurrency=48AEwauAHsJibyt3WqjQ6EoHnFBcnyHASfo7vB2eCXPS",
+                                  href: "#",
                                   target: "_blank",
                                   children: (0, N.jsx)("img", {
                                     src: Hs(),
