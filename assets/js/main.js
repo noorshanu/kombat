@@ -461,7 +461,7 @@
                                                   children: (0,
                                                   h.jsx)("span", {
                                                       className: "item_text",
-                                                      children: "Backers"
+                                                      children: "Partners"
                                                   })
                                               })
                                           })
@@ -722,7 +722,7 @@
                                       children: (0,
                                       h.jsx)("span", {
                                           className: "bold-item",
-                                          children: "Backers"
+                                          children: "Partners"
                                       })
                                   })
                               })
