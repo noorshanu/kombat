@@ -116,7 +116,7 @@
                               alt: "platform of Blockombat",
                             }),
                           }),
-                          (0, N.jsx)("p", { children: s.name ,classNAme:s.class }),
+                          (0, N.jsx)("p", { children: s.name ,className:s.class }),
                         ],
                       });
                     }),

@@ -28497,6 +28497,7 @@ body.dg-dropdown-slide-from-left.dg-drop-down
   display: flex;
   justify-content: center;
   align-items: center;
+  background-image: url(https://ik.imagekit.io/l4k8brcjb/kombat/platform_bg.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666728561267);
 }
 .dg-banner .dragonwar-info-container h1 {
   background: linear-gradient(
@@ -28596,7 +28597,7 @@ body.dg-dropdown-slide-from-left.dg-drop-down
   margin-top: 20%;
 }
 .andriod{
-  margin-top: 45%;
+  margin-top: 45% !important;
 }
 
 .dg-banner .dg-platform-container {
