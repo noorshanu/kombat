@@ -1226,7 +1226,7 @@
                   }]
               }, {
                   raceName: "",
-                  raceDescription: '  <p><span style="color:#f1c40f">The Orc</span> had their territory in <span style="color:#f39c12">Jotun </span>lying close to the border of Vanirm, behind the Sephera mountains.</p>\n\n  <p>The bonus stat for Dragon&#39;s team is Priority Strengthen in Defense:</p>\n\n  <p>BONUS DRAGON ATTACK: 4%<br />\n  BONUS DRAGON DEFENSE: 4%<br />\n  BONUS DRAGON HP: 7%</p>\n',
+                  raceDescription: '  <p><span style="color:#f1c40f"> </span>  <span style="color:#f39c12"> </span></p>\n\n  <p></p>\n\n  <p><br />\n  <br />\n  </p>\n',
                   raceLogo: R(),
                   raceBackground: X(),
                   raceCharacter: {
