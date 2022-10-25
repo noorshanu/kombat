@@ -1129,8 +1129,8 @@
             , J = {
               sectionBackground: "",
               raceList: [{
-                  raceName: "Human",
-                  raceDescription: '<p><span style="color:#f1c40f">The Human</span> took over the most fertile land, located on the North of Eragard called <span style="color:#f39c12">Darmid</span>.</p>\n\n<p>The bonus stat for Dragon&#39;s team is Balance between Attack, Defense, HP:</p>\n\n<p>BONUS DRAGON ATTACK: 5%<br />\nBONUS DRAGON DEFENSE: 5%<br />\nBONUS DRAGON HP: 5%</p>',
+                  raceName: " ",
+                  raceDescription: '<p><span style="color:#f1c40f">     </span>  <span style="color:#f39c12">  </span></p>\n\n<p  </p>\n\n<p> <br />\n <br />\n </p>',
                   raceLogo: I(),
                   raceBackground: W(),
                   raceCharacter: {
@@ -1161,8 +1161,8 @@
                       description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
                   }]
               }, {
-                  raceName: "Dark Elf",
-                  raceDescription: '<p><span style="color:#f1c40f">The Wizards</span> had a territory in <span style="color:#f39c12">Vanirm</span>. This land was said to be the intersection of the elements and was the source of ancient magic&nbsp;</p>\n\n<p>The bonus stat for Dragon&#39;s team is Priority Strengthen in Attack:</p>\n\n<p>BONUS DRAGON ATTACK: 7%<br />\nBONUS DRAGON DEFENSE: 4%<br />\nBONUS DRAGON HP: 4%</p>\n',
+                  raceName: " ",
+                  raceDescription: '<p><span style="color:#f1c40f"></span>  <span style="color:#f39c12"></span> </p>\n\n<p> </p>\n\n<p> <br />\n\n</p>\n',
                   raceLogo: F(),
                   raceBackground: V(),
                   raceCharacter: {
@@ -1193,8 +1193,8 @@
                       description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
                   }]
               }, {
-                  raceName: "Elf",
-                  raceDescription: '<p><span style="color:#f1c40f">The Elf</span> race lived hidden deep in the forest spirit in the land called <span style="color:#f39c12">Flamheim</span>, where the elves are a legend.</p>\n\n<p>The bonus stat for Dragon&#39;s team is Priority Strengthen in Defense:</p>\n\n<p>BONUS DRAGON ATTACK: 4%<br />\nBONUS DRAGON DEFENSE: 7%<br />\nBONUS DRAGON HP: 4%</p>\n',
+                  raceName: "",
+                  raceDescription: '<p><span style="color:#f1c40f">  </span>  <span style="color:#f39c12"> </span> </p>\n\n<p></p>\n\n<p> <br />\n <br />\n </p>\n',
                   raceLogo: L(),
                   raceBackground: Q(),
                   raceCharacter: {
