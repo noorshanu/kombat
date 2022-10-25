@@ -28558,8 +28558,15 @@ body.dg-dropdown-slide-from-left.dg-drop-down
 @media (min-width: 968px) {
   .dg-banner .dragonwar-info-container {
     bottom: 30%;
-    display: none;
+    margin: unset;
+    left: 0;
+    width: 10%;
+    height: 100%;
+    top: 10%;
+    background-image: url(https://ik.imagekit.io/l4k8brcjb/kombat/bar1.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666722118501);
+    
   }
+ 
   .dg-banner .platform-item p {
     display: block !important;
   }
@@ -28576,14 +28583,16 @@ body.dg-dropdown-slide-from-left.dg-drop-down
   display: none;
 }
 .dg-banner .platform-icon {
-  height: 50px;
+  height: 25px;
   cursor: pointer;
   object-fit: contain;
 }
 .dg-banner .dragonwar-info-container p {
   line-height: 30px;
   padding-left: 10px;
-  font-size: 24px;
+  font-size: 15px;
+  transform: rotate(-90deg);
+  margin-top: 24%;
 }
 .dg-banner .dg-platform-container {
   margin: 15px auto 0;
@@ -28622,6 +28631,18 @@ body.dg-dropdown-slide-from-left.dg-drop-down
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
 }
+@media (min-width: 968px) {
+  .dg-banner .dg-platform-container {
+    margin: 15px auto 0;
+    display: flex;
+    flex-direction: column;}
+    .dg-banner .platform-item {
+      display: flex;
+      margin: 20px 20px;
+      flex-direction: column;
+      
+  }
+  }
 .dg-banner .dg-banner-main {
   max-height: 100vh;
 }

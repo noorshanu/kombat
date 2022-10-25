@@ -90,10 +90,8 @@
                     : "animate__animated animate__backOutRight",
                   "  "
                 ),
-                style: {
-                  background: "url('".concat(p(), "')"),
-                  backgroundSize: "100% 100%",
-                },
+                style: {},
+                
                 children: (0, N.jsx)("div", {
                   style: { display: "table", margin: "0 auto" },
                   children: (0, N.jsx)("div", {
