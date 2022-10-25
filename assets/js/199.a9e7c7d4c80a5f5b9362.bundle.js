@@ -865,7 +865,7 @@
               "Marketing: 150,000,000",
               "Rewards for (P2E & LP/Single Staking): 100,000,000 ",
               "Team: 80,000,000",
-              "Operation/Development: 170,000,000",
+              "Operations/Development: 170,000,000",
               "Legal: 10,000,000 ",
             ],
             contact: [
@@ -916,7 +916,7 @@
                           children: (0, N.jsx)("h2", {
                             className: "dg-st-title",
                             children: (0, N.jsx)("span", {
-                              children: "Tokenomic",
+                              children: "Tokenomics",
                             }),
                           }),
                         }),
@@ -982,7 +982,7 @@
                                       alt: "arrow",
                                     }),
                                   }),
-                                  "USE CASE",
+                                  "USE CASES",
                                 ],
                               }),
                               (0, N.jsx)("ul", {
