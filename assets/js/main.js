@@ -522,18 +522,7 @@
                                                   })
                                               })
                                           }), (0,
-                                          h.jsx)("li", {
-                                              className: "menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-128 current_page_item ",
-                                              children: (0,
-                                              h.jsx)("a", {
-                                                  href: "#",
-                                                  className: "",
-                                                  children: (0,
-                                                  h.jsx)("span", {
-                                                      children: "Game Lore"
-                                                  })
-                                              })
-                                          })]
+                                          h.jsx)]
                                       })]
                                   }), (0,
                                   h.jsx)("li", {
@@ -814,29 +803,7 @@
                                                   })
                                               })
                                           })
-                                      }), (0,
-                                      h.jsx)("li", {
-                                          className: "menu-item menu-item-type-post_type menu-item-object-page ",
-                                          children: (0,
-                                          h.jsx)("a", {
-                                              target: "_blank",
-                                              href: "#",
-                                              className: "",
-                                              children: (0,
-                                              h.jsx)("span", {
-                                                  className: "item_outer",
-                                                  children: (0,
-                                                  h.jsx)("span", {
-                                                      className: "item_inner",
-                                                      children: (0,
-                                                      h.jsx)("span", {
-                                                          className: "item_text",
-                                                          children: "Game Lore"
-                                                      })
-                                                  })
-                                              })
-                                          })
-                                      }), (0,
+                                      }),  (0,
                                       h.jsx)("li", {
                                           className: "menu-item menu-item-type-post_type menu-item-object-page ",
                                           children: (0,
