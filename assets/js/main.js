@@ -1129,8 +1129,8 @@
             , J = {
               sectionBackground: "",
               raceList: [{
-                  raceName: " ",
-                  raceDescription: '<p><span style="color:#f1c40f">     </span>  <span style="color:#f39c12">  </span></p>\n\n<p  </p>\n\n<p> <br />\n <br />\n </p>',
+                  raceName: " BRINX ",
+                  raceDescription: '<p><span >  One of the most entertaining fighter soldiers who loved the arena    </span> </p>\n\n<p>and won many bets against the general whenever he was to fight </p> \n\n<p> any prisoner that was put before him. He singlehandedly killed  over 100 prisoners who hoped to fight their way to freedom. </p>',
                   raceLogo: I(),
                   raceBackground: W(),
                   raceCharacter: {
@@ -1161,8 +1161,8 @@
                       description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
                   }]
               }, {
-                  raceName: " ",
-                  raceDescription: '<p><span style="color:#f1c40f"></span>  <span style="color:#f39c12"></span> </p>\n\n<p> </p>\n\n<p> <br />\n\n</p>\n',
+                  raceName: " DURELL ",
+                  raceDescription: '<p><span>He was the leader of the army and plotted the plan that resulted in </span>  the murder of the emperor and hoped to take over the throne and <span>marry the Queen but was stopped by his lieutenant. </span> </p>\n\n<p> </p>\n\n<p> <br />\n\n</p>\n',
                   raceLogo: F(),
                   raceBackground: V(),
                   raceCharacter: {
@@ -1193,8 +1193,8 @@
                       description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
                   }]
               }, {
-                  raceName: "",
-                  raceDescription: '<p><span style="color:#f1c40f">  </span>  <span style="color:#f39c12"> </span> </p>\n\n<p></p>\n\n<p> <br />\n <br />\n </p>\n',
+                  raceName: "GAMBALL ",
+                  raceDescription: '<p><span>A very loyal Blockombatant with close alliance to the Royal family,   </span>  found out about the plot to kill the emperor late but vowed to <span> revenge the death of the emperor.</span> </p>\n\n<p></p>\n\n<p> <br />\n <br />\n </p>\n',
                   raceLogo: L(),
                   raceBackground: Q(),
                   raceCharacter: {
@@ -1225,8 +1225,8 @@
                       description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
                   }]
               }, {
-                  raceName: "",
-                  raceDescription: '  <p><span style="color:#f1c40f"> </span>  <span style="color:#f39c12"> </span></p>\n\n  <p></p>\n\n  <p><br />\n  <br />\n  </p>\n',
+                  raceName: "GOWRELL",
+                  raceDescription: '  <p> the emperor had been killed he restored normalcy and oversaw the installation of a new and younger emperor and  <span >protected the realms. He later married the Queen after a new  emperor was enthroned. </span></p>\n\n  <p></p>\n\n  <p><br />\n  <br />\n  </p>\n',
                   raceLogo: R(),
                   raceBackground: X(),
                   raceCharacter: {
