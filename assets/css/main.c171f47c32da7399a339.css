@@ -28587,15 +28587,16 @@ body.dg-dropdown-slide-from-left.dg-drop-down
   cursor: pointer;
   object-fit: contain;
 }
-.dg-banner .dragonwar-info-container a[href="and"] {
-  margin-top: 45%;
-}
+
 .dg-banner .dragonwar-info-container p {
   line-height: 30px;
   padding-left: 10px;
   font-size: 15px;
   transform: rotate(-90deg);
   margin-top: 20%;
+}
+.andriod{
+  margin-top: 45%;
 }
 
 .dg-banner .dg-platform-container {

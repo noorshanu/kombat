@@ -28,17 +28,18 @@
             {
               name: "Play on Web",
               image: j(),
-              url:"https://play.dragonwar.io",
+              url:"#",
             },
             {
               name: 'Play on Android',
               image: u(),
-              url: "https://play.dragonwar.io",
+              url: "#",
+              class:'andriod'
             },
             {
               name: "Play on IOS",
               image: x(),
-              url: "https://play.dragonwar.io",
+              url: "#",
             },
           ]),
         v = n(9249),
@@ -100,7 +101,7 @@
                       return (0, N.jsxs)("div", {
                         className: "platform-item",
                         onClick: function () {
-                          s.url ? (gtag("event", "menu", {
+                          s.url ? (("event", "menu", {
                                 event_category: "navigation",
                                 event_label: "clicked",
                               }),
@@ -108,14 +109,14 @@
                         },
                         children: [
                           (0, N.jsx)("a", {
-                            href: "#",
+                            href: '#',
                             children: (0, N.jsx)("img", {
                               className: "platform-icon",
                               src: s.image,
                               alt: "platform of Blockombat",
                             }),
                           }),
-                          (0, N.jsx)("p", { children: s.name }),
+                          (0, N.jsx)("p", { children: s.name ,classNAme:s.class }),
                         ],
                       });
                     }),
