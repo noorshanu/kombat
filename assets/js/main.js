@@ -3805,7 +3805,7 @@
       }
       ,
       7700: (e,a,s)=>{
-          e.exports = s.p + "assets/images/buy-draw-btn1.png"
+          e.exports = "assets/images/buy-draw-btn1.png"
       }
       ,
       6220: (e,a,s)=>{
