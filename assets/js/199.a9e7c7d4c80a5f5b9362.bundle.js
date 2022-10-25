@@ -663,7 +663,7 @@
           },
           {
             image: ys(),
-            title: "Skills and Weapons store",
+            title: "NFT Minting and Rewards",
             des: "Mint your own unique Blockombat NFTS from our collection of unique characters",
           },
           {
