@@ -664,7 +664,7 @@
           {
             image: ys(),
             title: "Skills and Weapons store",
-            des: "Coming soon: Helmet, Armor, Sword, Shield,…",
+            des: "Mint your own unique Blockombat NFTS from our collection of unique characters",
           },
           {
             image: ws(),
