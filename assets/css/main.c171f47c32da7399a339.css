@@ -28497,6 +28497,7 @@ body.dg-dropdown-slide-from-left.dg-drop-down
   display: flex;
   justify-content: center;
   align-items: center;
+  padding-bottom: 4%;
   background-size: cover;
   background-image: url(https://ik.imagekit.io/l4k8brcjb/kombat/platform_bg.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666728561267);
 }
@@ -31930,9 +31931,9 @@ section.dg-tokenInfo .token-container .dg-elements-holder-item h5 {
   font-size: 16px;
 }
 section.dg-tokenInfo .token-container .thunder-dragon img {
-  max-width: 170%;
+  max-width: 144%;
   position: absolute;
-  right: -4%;
+  right: -11%;
   top: 57%;
   transform: translate(0%, -50%);
 }
@@ -35127,5 +35128,23 @@ section.dg-video .slick-dots {
         bottom: 50px;
         margin: 0;
         width: 24px;}
+
+        section.dg-describe {
+          background-color: #000;
+          background-size: cover;
+          padding-top: 0%;
+          padding-bottom: 0%;
+      }
+      section.dg-nfts {
+        padding-top: 75px;}
+        .icon-foot {
+          gap: 1rem;
+      }
+
+      footer a {
+        font-size: 16px;
+        color: inherit;
+        font-family: Univers LT Std;
+    }
     
 }
