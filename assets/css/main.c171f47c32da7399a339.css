@@ -35089,5 +35089,13 @@ section.dg-video .slick-dots {
           left: 0;
           right: 0;
       }
+
+      #dg-back-to-top {
+        display: block;
+        position: fixed;
+        right: 29px;
+        bottom: 50px;
+        margin: 0;
+        width: 24px;}
     
 }

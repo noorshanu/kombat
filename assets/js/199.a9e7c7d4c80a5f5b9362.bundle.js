@@ -143,7 +143,7 @@
           {
             image: T(),
             content:
-              '<p style="text-align:justify"><span style="font-size:13pt"><span style="font-family:Nunito,sans-serif"><span ><strong>SHARPING THE BATTLE!!</strong></span></span></span></p>\n\n<p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Nunito,sans-serif"><span >Dragon War&#39;s first-ever element to winning the race is, of course, a strong offensive lineup.&nbsp;&nbsp;</span></span></span></p>\n\n<p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Nunito,sans-serif"><span ><strong>🐲 Dream Alliance&nbsp;</strong></span></span></span></p>\n\n<p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Nunito,sans-serif"><span >Aligning dragons to make a perfect team when entering the Arena so that you will have more chances to win against the enemy. There will be 2 ideal alliances to defeat the enemy that is attack team and the defense team.</span></span></span></p>\n\n<p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Nunito,sans-serif"><span ><strong>🐲 Dream Dragon</strong></span></span></span></p>\n\n<p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Nunito,sans-serif"><span >Choose and assemble dragons that are suitable for the purpose and battle. The stronger the dragon, the more your team will be able to assert your power.</span></span></span></p>\n',
+              '<p style="text-align:justify"><span style="font-size:13pt"><span style="font-family:Nunito,sans-serif"><span ><strong>Free Play</strong></span></span></span></p>\n\n<p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Nunito,sans-serif"><span >Dragon War&#39;s first-ever element to winning the race is, of course, a strong offensive lineup.&nbsp;&nbsp;</span></span></span></p>\n\n<p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Nunito,sans-serif"><span ><strong>🐲 Dream Alliance&nbsp;</strong></span></span></span></p>\n\n<p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Nunito,sans-serif"><span >Aligning dragons to make a perfect team when entering the Arena so that you will have more chances to win against the enemy. There will be 2 ideal alliances to defeat the enemy that is attack team and the defense team.</span></span></span></p>\n\n<p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Nunito,sans-serif"><span ><strong>🐲 Dream Dragon</strong></span></span></span></p>\n\n<p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Nunito,sans-serif"><span >Choose and assemble dragons that are suitable for the purpose and battle. The stronger the dragon, the more your team will be able to assert your power.</span></span></span></p>\n',
           },
           {
             image: E(),
@@ -658,23 +658,23 @@
        
           {
             image: fs(),
-            title: "Heroes",
-            des: "Each hero will bring unique strength according to their Race.",
+            title: "Blockombats",
+            des: "Each Kombat will bring unique strength according to their Race.",
           },
           {
             image: ys(),
-            title: "Heroes Equipment Items",
+            title: "Skills and Weapons store",
             des: "Coming soon: Helmet, Armor, Sword, Shield,…",
           },
           {
             image: ws(),
-            title: "Dragons",
-            des: "Diverse dragons represent the power of Dragon War.",
+            title: "Rare NFTs",
+            des: "rewards that power our tournament system.",
           },
           {
             image: bs(),
             title: "Skills & Ability Cards",
-            des: "Each Dragon will have a number of skill slots, according to its rarity.",
+            des: "Each Kombat will have a number of skill slots, according to its rarity.",
           },
         ],
         Ds = n(5591),
@@ -870,8 +870,8 @@
             ],
             contact: [
               {
-                name: "BKB",
-                token: "soon",
+                name: "",
+                token: "",
                 link: "#",
               },
             ],
@@ -1113,20 +1113,16 @@
                               (0, N.jsxs)("h4", {
                                 children: [
                                   (0, N.jsx)("span", {
-                                    children: (0, N.jsx)("img", {
-                                      width: 20,
-                                      src: zs(),
-                                      alt: "arrow",
-                                    }),
+                                   
                                   }),
-                                  "Contract Address",
+                                  "",
                                 ],
                               }),
                               Gs[1].contact.map(function (s) {
                                 return (0, N.jsxs)("p", {
                                   children: [
                                     s.name,
-                                    ": ",
+                                    " ",
                                     s.token,
                                     (0, N.jsx)("span", {
                                       style: { cursor: "pointer" },
@@ -1134,22 +1130,14 @@
                                         navigator.clipboard.writeText(s.token),
                                           (0, v.Am)("Copied ! ");
                                       },
-                                      children: (0, N.jsx)("img", {
-                                        width: 20,
-                                        src: Os(),
-                                        alt: "copy to clipboard",
-                                      }),
+                                      
                                     }),
                                     (0, N.jsx)("span", {
                                       style: { cursor: "pointer" },
                                       onClick: function () {
                                         window.open(s.link, "_blank").focus();
                                       },
-                                      children: (0, N.jsx)("img", {
-                                        width: 20,
-                                        src: qs(),
-                                        alt: "copy to clipboard",
-                                      }),
+                                    
                                     }),
                                   ],
                                 });

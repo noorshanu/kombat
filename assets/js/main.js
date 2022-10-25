@@ -576,7 +576,7 @@
                                                   children: (0,
                                                   h.jsx)("span", {
                                                       className: "item_text",
-                                                      children: "Blog"
+                                                      children: "Stake"
                                                   })
                                               })
                                           })
@@ -925,7 +925,7 @@
                                       children: (0,
                                       h.jsx)("span", {
                                           className: "bold-item",
-                                          children: "Blog"
+                                          children: "Stake"
                                       })
                                   })
                               })
@@ -1340,7 +1340,7 @@
                                                       className: "dg-st-title",
                                                       children: (0,
                                                       h.jsx)("span", {
-                                                          children: "Heroes"
+                                                          children: "BlocKombatants"
                                                       })
                                                   })
                                               })
@@ -2187,7 +2187,7 @@
                                           children: "Road Map"
                                       }), (0,
                                       h.jsx)("p", {
-                                          children: " Of Dragon War"
+                                          children: " "
                                       })]
                                   })
                               })
