@@ -4419,7 +4419,7 @@
       })
   }
   ,
-  n.p = "https://dragonwar.io/",
+  n.p = "https://blockombat.com/",
   (()=>{
       var e = {
           179: 0,

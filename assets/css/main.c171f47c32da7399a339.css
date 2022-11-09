@@ -32244,14 +32244,15 @@ section.dg-features .feature-item-wrapper img {
   
 }
 section.dg-nfts {
-  padding-top: 50px;
+  padding-top: 60px;
+  padding-bottom: 76px;
   background-size: cover;
   background-image: url(https://ik.imagekit.io/l4k8brcjb/kombat/ezgif.com-gif-maker__1_.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666465522561);
   background-position: bottom;
   position: absolute;
-    top: 9.8%;
-    left: 0;
-    right: 0;
+  top: 11%;
+  left: 0;
+  right: 0;
 }
 .d-none{
     display: none;

@@ -551,7 +551,7 @@
                           children: (0, N.jsx)("h2", {
                             className: "dg-st-title",
                             children: (0, N.jsx)("span", {
-                              children: "Media Coverage",
+                              children: "Media Coverage (Coming Soon)",
                             }),
                           }),
                         }),
