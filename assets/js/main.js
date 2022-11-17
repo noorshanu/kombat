@@ -4419,7 +4419,7 @@
       })
   }
   ,
-  n.p = "https://blockombat.com/",
+  n.p = "",
   (()=>{
       var e = {
           179: 0,
